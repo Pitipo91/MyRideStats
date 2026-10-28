@@ -1,0 +1,32 @@
+MyRideStats mide cuánto tumbas la moto en cada curva. Guarda el móvil en el bolsillo como quieras, pulsa «Empezar ruta» y conduce: la postura del móvil da igual.
+
+EN RUTA
+• Inclinación en directo, con el máximo a la izquierda y a la derecha
+• Tiempo inclinado hacia cada lado y equilibrio entre ambos
+• Sigue grabando con la pantalla apagada
+
+HISTORIAL
+• Cada ruta con su mapa, coloreado según la inclinación
+• Todas las curvas con su ángulo y sus velocidades de entrada, mínima y salida
+• Gráfica de la inclinación durante la ruta y reparto de curvas por ángulos
+• Repetición animada de la ruta
+
+ANÁLISIS
+• Simetría: ¿tumbas igual a los dos lados?
+• Progreso por semanas o meses
+• Mapa de calor de todas tus rutas
+• Tus curvas de siempre: detecta las curvas que repites y muestra cómo mejoras en cada una
+
+COMPARTIR
+• Exporta tus rutas en GPX
+• Tarjeta de imagen con los datos de la ruta para compartir
+
+PRIVACIDAD
+Sin cuentas, sin anuncios y sin analíticas. Tus rutas se guardan solo en tu móvil.
+
+CÓMO FUNCIONA
+La app combina el giroscopio, el acelerómetro y la velocidad del GPS para estimar el ángulo real de la moto, independientemente de cómo vaya el móvil. Al arrancar, unos segundos parado bastan para calibrar. Por debajo de 15 km/h no se mide.
+
+Tema claro u oscuro, en español e inglés. Mapas de OpenStreetMap.
+
+SEGURIDAD: no manipules el móvil mientras conduces. Los ángulos son estimaciones: circula siempre dentro de tus límites y de la ley.

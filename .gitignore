@@ -1,0 +1,17 @@
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.kotlin/
+
+# Claves de firma: NUNCA dentro del proyecto
+signing/
+*.jks
+*.keystore
+*.p12
+*.pk8
+clave.txt

@@ -1,0 +1,32 @@
+MyRideStats measures how far you lean your motorcycle in every curve. Put the phone in your pocket any way you like, tap “Start ride” and go: the phone's position doesn't matter.
+
+ON THE RIDE
+• Live lean angle, with your maximum to the left and to the right
+• Time leaned to each side and the balance between them
+• Keeps recording with the screen off
+
+HISTORY
+• Every ride with its map, colored by lean angle
+• Every curve with its angle and its entry, minimum and exit speeds
+• Lean chart over the ride and curves grouped by angle
+• Animated replay of the ride
+
+ANALYSIS
+• Symmetry: do you lean the same to both sides?
+• Progress by week or month
+• Heat map of all your rides
+• Your regular curves: detects the curves you ride again and shows how you improve on each one
+
+SHARE
+• Export your rides as GPX
+• Image card with the ride's stats to share
+
+PRIVACY
+No accounts, no ads and no analytics. Your rides are stored only on your phone.
+
+HOW IT WORKS
+The app combines the gyroscope, the accelerometer and GPS speed to estimate the bike's real angle, whatever the phone's position. A few seconds stopped at the start are enough to calibrate. Nothing is measured below 15 km/h.
+
+Light or dark theme, in English and Spanish. Maps from OpenStreetMap.
+
+SAFETY: don't handle your phone while riding. The angles are estimates: always ride within your limits and the law.

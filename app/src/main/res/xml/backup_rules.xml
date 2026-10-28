@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 9-11: copia de seguridad completa salvo la clave de CARTO. Las rutas sí se copian. -->
+<full-backup-content>
+    <exclude domain="sharedpref" path="map.xml" />
+</full-backup-content>

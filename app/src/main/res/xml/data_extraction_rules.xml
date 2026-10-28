@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 12+: igual en la copia en la nube y en la transferencia entre dispositivos. -->
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="sharedpref" path="map.xml" />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="sharedpref" path="map.xml" />
+    </device-transfer>
+</data-extraction-rules>
